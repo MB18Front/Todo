@@ -1,0 +1,8 @@
+* {
+  font-family: 'Instrument Sans', sans-serif;
+}
+
+body {
+  background: linear-gradient(-45deg,#fcdcff, #ddfffd);
+  min-height: 100vh;
+}

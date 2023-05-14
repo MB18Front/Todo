@@ -1,0 +1,9 @@
+.btn-support {
+  box-shadow: #0007 0 0 6px;
+  font-size: small !important;
+}
+.btn-support:hover {
+  background: #0000 !important;
+  color: #000 !important;
+  transform: scale(1.02);
+}

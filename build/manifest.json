@@ -1,0 +1,15 @@
+{
+  "short_name": "Soundcloud",
+  "name": "a new design for soundcloud",
+  "icons": [
+    {
+      "src": "https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF5500",
+  "background_color": "#FAFEFA"
+}

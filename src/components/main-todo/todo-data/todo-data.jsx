@@ -6,7 +6,7 @@ const TodoData = () => {
   let
     donedTodo = +localStorage.getItem("doned"),
     allCount = +localStorage.getItem("all-count"),
-    present = (donedTodo * 100) / allCount;
+    present = (donedTodo * 100) / (allCount - 1);
   useEffect(
     () => {
       document.getElementById("present").style.width = `${present}%`;
